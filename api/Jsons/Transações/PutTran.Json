@@ -1,0 +1,11 @@
+{
+    "id": 4,
+    "id_investimento": 12,
+    "tipo": "débito",
+    "valor": 1000.00,
+    "data": "2025-04-18",
+    "categoria_id": 2,
+    "usuario_id": 1,
+    "descricao": "Pagamento da divida"
+  }
+  

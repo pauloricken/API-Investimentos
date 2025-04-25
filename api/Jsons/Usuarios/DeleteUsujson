@@ -1,0 +1,5 @@
+
+
+{
+    "delete":"http://localhost/api/public/index.php?rota=usuarios&id=?"
+}

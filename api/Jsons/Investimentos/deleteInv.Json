@@ -1,0 +1,4 @@
+
+{
+    "delete":"http://localhost/api/public/index.php?rota=investimentos&id=9"
+}
